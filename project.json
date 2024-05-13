@@ -1,0 +1,26 @@
+{
+	"contentrating" : "Everyone",
+	"description" : "一切版权归原作者所有\n原作品：Periodic Table  \n这是我自己汉化魔改的一个版本，提供中英文双文名称，同时显示电子构型，原子半径，原子质量，原子轨道分布，电负性。点击原子图案，左上角为原子序号，右上角为原子轨道分布，右下角为电负性，上方为原子质量，左方A为理论计算原子半径，C为经验测量共价键半径，Crystal为晶体离子半径，EFF为有效离子半径，ls为低自选，hs为高自旋，下方为原子构型。\n使用中遇到数据错误，或发现更新的数据库，欢迎留言评论数据库链接，会尽快修改！！\n原作者留下的话：\nThis is the periodic table of elements for chemistry lovers. It has bright neon colors that clearly divides different category of elements. It also has CGI affects that shows atomic weights, number of electrons per orbits, etc. Enjoy!\nFor more information watch this short YouTube clip https://youtu.be/fg6Yg63oCfM",
+	"file" : "index.html",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0 0 0"
+			}
+		}
+	},
+	"preview" : "preview.gif",
+	"tags" : [ "Technology" ],
+	"title" : "元素周期表   汉化魔改版 Modified Chinese version of the Periodic Table of Elements",
+	"type" : "Web",
+	"version" : 6,
+	"visibility" : "public",
+	"workshopid" : "2554078023",
+	"workshopurl" : "steam://url/CommunityFilePage/2554078023"
+}
